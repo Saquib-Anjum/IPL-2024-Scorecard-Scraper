@@ -45,4 +45,4 @@ This Node.js project scrapes IPL scorecards from ESPN Cricinfo and extracts matc
 Once you've installed the dependencies, you can run the scraper by executing the following command:
 
 ```bash
-node scoreCard.js
+node index.js
