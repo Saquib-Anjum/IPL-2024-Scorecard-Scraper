@@ -1,4 +1,4 @@
-# IPL Scorecard Scraper
+# IPL 2024 Scorecard Scraper
 
 This Node.js project scrapes IPL scorecards from ESPN Cricinfo and extracts match details such as the match results, player performances, and other statistics. The data is then organized and exported into an Excel file using the `xlsx` library.
 
@@ -25,13 +25,13 @@ This Node.js project scrapes IPL scorecards from ESPN Cricinfo and extracts matc
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/IPL-Scorecard-Scraper.git
+    git clone https://github.com/your-username/IPL-2024-Scorecard-Scraper.git
     ```
 
 2. Navigate into the project directory:
 
     ```bash
-    cd IPL-Scorecard-Scraper
+    cd IPL-2024-Scorecard-Scraper
     ```
 
 3. Install the required dependencies:
