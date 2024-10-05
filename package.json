@@ -1,0 +1,19 @@
+{
+  "name": "learning-node-js",
+  "version": "1.0.0",
+  "description": "Learning Node Js from 01/09/2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.5"
+  }
+}
