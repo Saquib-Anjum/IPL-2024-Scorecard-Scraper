@@ -25,7 +25,7 @@ This Node.js project scrapes IPL scorecards from ESPN Cricinfo and extracts matc
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/IPL-2024-Scorecard-Scraper.git
+    git clone https://github.com/Saquib-Anjum/IPL-2024-Scorecard-Scraper.git
     ```
 
 2. Navigate into the project directory:
